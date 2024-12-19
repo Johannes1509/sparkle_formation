@@ -1,5 +1,6 @@
 ![SparkleFormation](img/sparkle-formation.png)
 
+
 # SparkleFormation
 
 Orchestration template building tools for Ruby.
